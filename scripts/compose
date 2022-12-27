@@ -32,7 +32,7 @@ if [ ${OPENBALENA_HOST_NAME: -6} == ".local" ]; then
 fi
 
 # shellcheck source=/dev/null
-source "${VERSIONS_FILE}"; docker-compose \
+source "${VERSIONS_FILE}"; docker compose \
   --project-name 'openbalena' \
   -f "${BASE_DIR}/compose/services.yml" \
   ${INCLUDE_MDNS} \
