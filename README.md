@@ -25,7 +25,7 @@ To learn more about openBalena, visit [balena.io/open][open-balena-website].
 
 ## Getting Started
 
-Our [Getting Started guide][getting-started] is the most direct path to getting
+Our [Getting Started guide](getting_started.md) is the most direct path to getting
 an openBalena installation up and running and successfully deploying your
 application to your device(s).
 
@@ -133,7 +133,6 @@ OpenBalena is licensed under the terms of AGPL v3. See [LICENSE](https://github.
 [balena-sdk]: https://github.com/balena-io/balena-sdk
 [documentation]: https://balena.io/docs/learn/welcome/introduction/
 [forums]: https://forums.balena.io/c/open-balena
-[getting-started]: https://balena.io/open/docs/getting-started
 [issue-tracker]: https://github.com/balena-io/open-balena/issues
 [open-balena-api]: https://github.com/balena-io/open-balena-api
 [open-balena-db]: https://github.com/balena-io/open-balena-db
